@@ -7,8 +7,17 @@
 I have trained `apple2orange` and `horse2zebra` for now, here is the real result of convert
 apple -> orange:
 
-![PicName](http://ofwzcunzi.bkt.clouddn.com/Re7W22VtZtgEQSQ9.png)
-![PicName](http://ofwzcunzi.bkt.clouddn.com/7ECiF3alBHYkPj3o.png)
+
+
+<img align="center" src="http://ofwzcunzi.bkt.clouddn.com/Re7W22VtZtgEQSQ9.png"></img> 
+
+
+
+<img align="center" src="http://ofwzcunzi.bkt.clouddn.com/7ECiF3alBHYkPj3o.png"></img>
+
+
+
+<img align="center" src="http://ofwzcunzi.bkt.clouddn.com/yEEM3RcADYp5YvfZ.png"></img>
 
 I only trained about 50 epochs, but the result is fair enough for now. Laterly I will finish horse2zebra model, and update some more results.
 
