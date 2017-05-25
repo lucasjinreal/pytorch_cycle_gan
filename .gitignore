@@ -1,0 +1,5 @@
+checkpoints
+datasets/apple2orange/*
+datasets/horse2zebra/*
+__pycache__/
+.DS_Store
