@@ -9,7 +9,7 @@ apple -> orange:
 
 
 
-<img align="center" src="http://ofwzcunzi.bkt.clouddn.com/Re7W22VtZtgEQSQ9.png"></img> 
+<img align="center" src="http://ofwzcunzi.bkt.clouddn.com/Re7W22VtZtgEQSQ9.png"></img>
 
 
 
@@ -20,6 +20,12 @@ apple -> orange:
 <img align="center" src="http://ofwzcunzi.bkt.clouddn.com/yEEM3RcADYp5YvfZ.png"></img>
 
 I only trained about 50 epochs, but the result is fair enough for now. Laterly I will finish horse2zebra model, and update some more results.
+
+Here is the horse2zebra result:
+
+![PicName](http://ofwzcunzi.bkt.clouddn.com/Q7UYP9ywezFOFvSy.png)
+
+![PicName](http://ofwzcunzi.bkt.clouddn.com/GzIkgZcRlBl1WrmT.png)
 
 # Requirements
 
@@ -61,9 +67,3 @@ I really love to connect to people, so if you have any question about this repo,
 ```
 (c) 2017 Jin Fagang under LICENSE Apache 2.0
 ```
-
-
-
-
-
-#  
